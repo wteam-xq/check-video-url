@@ -1,5 +1,5 @@
 {
-  "name": "@wteamxq/check-video-url",
+  "name": "@wteam-xq/check-video-url",
   "version": "1.0.0",
   "description": "check valid video url",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "video",
     "url"
   ],
-  "author": "wteamxq",
+  "author": "wteam-xq",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.9.5"
