@@ -1,0 +1,19 @@
+{
+  "name": "@wteamxq/check-video-url",
+  "version": "1.0.0",
+  "description": "check valid video url",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "check",
+    "video",
+    "url"
+  ],
+  "author": "wteamxq",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
